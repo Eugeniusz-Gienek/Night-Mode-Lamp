@@ -6,7 +6,7 @@ Ever tried to go to the WC at night and being blinded by the lights there when t
 
 # Hardware
 The schematics looks like this (image below):
-![schematics](night-mode-lamp-schematics.png)
+![schematics](night-mode-lamp-schematics2.png)
 
 List of parts needed:
 * 1 x [ESP32 C3 Super Mini](https://www.aliexpress.com/w/wholesale-esp32-c3-super-mini.html?spm=a2g0o.home.search.0) (or [similar](https://botland.store/esp32-wifi-and-bt-modules/23869-esp32-c3-zero-mini-development-board-with-soldered-connections-esp32-c3fn4-waveshare-25452.html)).
