@@ -50,7 +50,7 @@ void loop() {
       digitalWrite(RELAY_PIN, HIGH);
     }
     delay(500);
-    setupOTA("NoghtModeLampController", myWifiSSID, myWifiPASSWORD);
+    setupOTA("NightModeLampController", myWifiSSID, myWifiPASSWORD);
   }
   else {
     #ifdef defined(ESP32_RTOS) && defined(ESP32)
